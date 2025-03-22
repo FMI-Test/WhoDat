@@ -1,0 +1,9 @@
+{
+    "Vendor": "Vendor",
+    "AccountId": "AccountID",
+    "AccountName": "AccountName",
+    "Region": "Region",
+    "Prefix": "Prefix",
+    "BlockSize": "Block",
+    "CidrBlock": "CidrBlock"
+}

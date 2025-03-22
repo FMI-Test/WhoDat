@@ -1,0 +1,13 @@
+# CoreTech SOX Accounts - 27-Mar-2024
+141111311552  ge-cloud-hosting                                    us-east-1       GR-Limited-AWS                 Corporate-CoreTech             aws.ge-cloud-hosting@ge.com
+188894168332  digital-public-cloudops                             us-east-1       GR-Standard-AWS                Corporate-CoreTech             aws.digital.public.cloudops@ge.com
+207755114178  corp-dba                                            us-east-1       GR-Standard-AWS                Corporate-CoreTech             aws.corp-dba@ge.com
+264560008398  digital-vesg-secops                                 us-east-1       GR-Standard-AWS                Corporate-Cyber                aws.digital.vesg.secops@ge.com
+277688789493  public-cloud-prod                                   us-east-1       GR-Standard-AWS                Corporate-CoreTech             aws.public-cloud-prod@ge.com
+376079469356  cloud-inventory                                     us-east-1       GR-Limited-AWS                 Corporate-CoreTech             aws.cloud-inventory@ge.com
+432403552778  mas-co-dev                                          us-east-1       GR-Standard-AWS                Corporate-CoreTech             aws.mas-co-dev@ge.com
+504948279284  mas-co                                              us-east-1       GR-Standard-AWS                Corporate-CoreTech             aws.mas-co@ge.com
+556003251088  gecirt                                              us-east-1       GR-Standard-AWS                Corporate-Cyber                aws.gecirt@ge.com
+589623221417  geadmin                                             us-east-1       GR-Limited-AWS                 Corporate-CoreTech             aws.ge.admin@ge.com
+736489861251  corporate-brt                                       us-east-1       GR-Standard-AWS                Corporate-Cyber                aws.corporate-brt@ge.com
+737859062117  gecc                                                us-east-1       GR-Standard-AWS                Corporate-CoreTech             cc.architecture@ge.com
